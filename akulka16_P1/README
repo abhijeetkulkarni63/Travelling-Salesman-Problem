@@ -1,0 +1,13 @@
+Name:		Abhijeet S Kulkarni
+Email:		akulka16@binghamton.edu
+Course: 	CS 575-01 Fall2016
+---------------------------------------
+
+Steps for execution -
+
+1. Unpack akulka16_P1.tar.gz archive into an empty directory.
+2. Execute make command from within the same directory. It will create a jar file of the project.
+3. Execute following command to run the program : java -jar akulka16_P1.jar {input file path}.
+4. Output will be written to output.txt
+
+---------------------------------------
